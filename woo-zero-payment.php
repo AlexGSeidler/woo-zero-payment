@@ -23,7 +23,7 @@ add_action( 'before_woocommerce_init', function() {
 });
 
 // GitHub Commit Test - @disregard
-
+// Comment #2 - this is for ron to maybe try to undo
 
 /**
  * Ensure WooCommerce is active before proceeding.
