@@ -22,6 +22,9 @@ add_action( 'before_woocommerce_init', function() {
     }
 });
 
+// GitHub Commit Test - @disregard
+
+
 /**
  * Ensure WooCommerce is active before proceeding.
  */
